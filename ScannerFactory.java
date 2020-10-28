@@ -6,8 +6,6 @@ import java.util.Scanner;
 
 /**
  * ScannerFactory 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public abstract class ScannerFactory {
 
