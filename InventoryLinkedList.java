@@ -2,8 +2,6 @@ package LinkedInventoryManagement.Common;
 
 /**
  * InventoryLinkedList
- * 
- * Name: Roope Raikaa NetID: RSR180004
  */
 public class InventoryLinkedList<E extends Comparable<E>> {
 
