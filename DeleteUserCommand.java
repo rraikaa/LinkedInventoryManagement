@@ -8,8 +8,6 @@ import java.util.*;
 
 /**
  * DeleteUserCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class DeleteUserCommand extends Command 
 {
