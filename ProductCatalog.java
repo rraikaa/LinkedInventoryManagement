@@ -11,8 +11,6 @@ import LinkedInventoryManagement.PersistentStorage.InventoryOperations;
 
 /**
  * ProductCatalog
- * 
- * Name: Roope Raikaa NetID: RSR180004
  */
 public class ProductCatalog {
 
