@@ -9,8 +9,6 @@ import java.util.*;
 
 /**
  * AddProductCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class AddProductCommand extends Command
 {
