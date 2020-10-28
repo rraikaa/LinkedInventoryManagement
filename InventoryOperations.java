@@ -10,8 +10,7 @@ import LinkedInventoryManagement.Product.Product;
 import LinkedInventoryManagement.Product.ProductCatalog;
 
 /**
- * InventoryOperations: This class should contain all the Inventory.dat file read, write 
- * and update operations. 
+ * InventoryOperations
  */
 public class InventoryOperations {
 
