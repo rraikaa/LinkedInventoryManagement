@@ -7,7 +7,7 @@ import LinkedInventoryManagement.Common.InventoryLinkedList;
 import LinkedInventoryManagement.PersistentStorage.UsersOperations;
 
 /**
- * InventoryManagementSecurity Name: Roope Raikaa NetID: RSR180004
+ * InventoryManagementSecurity
  */
 public class SecurityOperations {
 
