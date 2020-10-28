@@ -2,8 +2,6 @@ package LinkedInventoryManagement.Menu;
 
 /**
  * MenuItem
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class MenuItem implements Comparable<MenuItem>
 {
