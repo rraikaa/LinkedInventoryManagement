@@ -12,10 +12,7 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * UsersOperations: This class should contain all the Users.dat file read, write
- * and update operations.
- * 
- * Name: Roope Raikaa NetID: RSR180004
+ * UsersOperations:
  */
 public class UsersOperations {
 
