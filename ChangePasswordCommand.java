@@ -8,8 +8,6 @@ import java.util.*;
 
 /**
  * ChangePasswordCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class ChangePasswordCommand extends Command 
 {
