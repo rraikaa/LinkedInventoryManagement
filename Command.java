@@ -7,8 +7,6 @@ import LinkedInventoryManagement.Security.User;
 
 /**
  * Command 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public abstract class Command 
 {
