@@ -16,9 +16,7 @@ import LinkedInventoryManagement.Product.ProductCatalog;
 import LinkedInventoryManagement.Security.SecurityOperations;
 import LinkedInventoryManagement.Security.User;
 
-/**
- * Name: Roope Raikaa NetID: RSR180004
- */
+
 public class AppTest {
     private static final SecurityOperations UserOperations = null;
 
