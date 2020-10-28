@@ -8,8 +8,6 @@ import java.util.*;
 
 /**
  * AddUserCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class AddUserCommand extends Command 
 {
