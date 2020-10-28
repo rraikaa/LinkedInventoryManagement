@@ -12,9 +12,7 @@ import LinkedInventoryManagement.Product.*;
 import LinkedInventoryManagement.Security.*;
 
 /**
- * Hello world! 
  * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class Main 
 {
