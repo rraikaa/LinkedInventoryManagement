@@ -13,10 +13,7 @@ import LinkedInventoryManagement.Product.ProductCatalog;
 import LinkedInventoryManagement.Security.User;
 
 /**
- * MenuListOperations: This class should contain all the MenuList.dat file read,
- * write and update operations.
- * 
- * Name: Roope Raikaa NetID: RSR180004
+ * MenuListOperations: 
  */
 public class MenuListOperations {
 
