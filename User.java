@@ -2,8 +2,7 @@ package LinkedInventoryManagement.Security;
 
 
 /**
- * User Name: Roope Raikaa 
- * NetID: RSR180004
+ * User Class
  */
 public class User implements Comparable<User>
 {
