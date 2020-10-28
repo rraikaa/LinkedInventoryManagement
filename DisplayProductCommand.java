@@ -6,8 +6,6 @@ import LinkedInventoryManagement.Security.User;
 
 /**
  * DisplayProductCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class DisplayProductCommand extends Command 
 {
