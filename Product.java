@@ -7,9 +7,7 @@ import LinkedInventoryManagement.Common.ScannerFactory;
 
 /**
  * This class represent a line in Inventory.dat file
- * 
- * Name: Roope Raikaa 
- * NetID: RSR180004
+
  */
 public class Product implements Comparable<Product>
 {
