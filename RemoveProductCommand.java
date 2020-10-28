@@ -10,8 +10,6 @@ import java.util.*;
 
 /**
  * RemoveProductCommand 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class RemoveProductCommand extends Command 
 {
