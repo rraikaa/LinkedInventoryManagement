@@ -12,9 +12,6 @@ import LinkedInventoryManagement.Product.ProductCatalog;
 /**
  * InventoryOperations: This class should contain all the Inventory.dat file read, write 
  * and update operations. 
- * 
- * Name: Roope Raikaa 
- * NetID: RSR180004
  */
 public class InventoryOperations {
 
