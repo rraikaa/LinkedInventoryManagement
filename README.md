@@ -1,6 +1,4 @@
 # LinkedInventoryManagement
-This program 
-
  This program is an inventory management system with Role Based Access Control (RBAC) . There are multiple types of
  users in the program: admin, managers, and employees. A customly created doubly linked list, which stores a 
  reference to a node's next node in the list, as well as a reference to the previous node. The linked
